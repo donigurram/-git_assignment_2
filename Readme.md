@@ -1,4 +1,4 @@
-Name: Doni
+Name: Doni Vasu
 Roll No: 2024BCS-026
 Course: SE
 Semester: Four
