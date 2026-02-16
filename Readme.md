@@ -1,4 +1,4 @@
-Name: Doni Vasu
+Name: Donigurram
 Roll No: 2024BCS-026
 Course: SE
 Semester: Four
